@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caravan Leveler</string>
+    <string name="pitch">Pitch</string>
+    <string name="roll">Roll</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="reset_calibration">Reset Calibration</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="length">Length (m)</string>
+    <string name="width">Width (m)</string>
+    <string name="axle_to_front">Axle to front (m)</string>
+    <string name="axle_to_rear">Axle to rear (m)</string>
+    <string name="save">Save</string>
+    <string name="host_mode">Start Host</string>
+    <string name="remote_mode">Connect Remote</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="enter_ip">Enter host IP</string>
+    <string name="port">Port 45678</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="hosting">Hosting…</string>
+    <string name="correction_front">Raise front / lower rear</string>
+    <string name="correction_rear">Raise rear / lower front</string>
+    <string name="correction_left">Raise left / lower right</string>
+    <string name="correction_right">Raise right / lower left</string>
+    <string name="level">LEVEL</string>
+    <string name="nearly_level">Nearly level</string>
+</resources>
